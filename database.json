@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+	 "id": 1, "title": "JakisTytul", "authorsId":1,"releaseDate":"2019-06-06","genre":"horror" }
+  ],
+  "authors": [
+    { "id": 1, "name": "JakiesImie", "surname":"JakiesNazwisko" }
+  ],
+  "bookAuthor":[{"connectionID":1,"authorId":1,"bookId":1}
+
+],
+   "publisher":[
+	{
+	"id":1,"name":"JakasFirma","city":"Bialystok","phoneNumber":123456789
+	}
+
+	]
+}
