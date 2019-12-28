@@ -1,18 +1,34 @@
 {
   "books": [
     {
-	 "id": 1, "title": "JakisTytul", "authorsId":1,"releaseDate":"2019-06-06","genre":"horror" }
+      "publisherId": 1,
+      "title": "Test",
+      "releaseDate": "2019-12-11",
+      "genre": "comedy",
+      "pages": 123,
+      "id": 1
+    }
   ],
   "authors": [
-    { "id": 1, "name": "JakiesImie", "surname":"JakiesNazwisko" }
+    {
+      "name": "Henryk",
+      "surname": "Sienkiewicz",
+      "id": 1
+    }
   ],
-  "bookAuthor":[{"connectionID":1,"authorId":1,"bookId":1}
-
-],
-   "publisher":[
-	{
-	"id":1,"name":"JakasFirma","city":"Bialystok","phoneNumber":123456789
-	}
-
-	]
+  "bookAuthor": [
+    {
+      "authorId": 1,
+      "bookId": 1,
+      "id": 1
+    }
+  ],
+  "publisher": [
+    {
+      "city": "Warszzawa",
+      "name": "First Publisher ",
+      "phoneNumber": 123123123,
+      "id": 1
+    }
+  ]
 }
