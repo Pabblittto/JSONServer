@@ -7,6 +7,30 @@
       "genre": "comedy",
       "pages": 123,
       "id": 1
+    },
+    {
+      "publisherId": 3,
+      "title": "Kiełbasa i przyjaciele",
+      "releaseDate": "2019-11-07",
+      "genre": "comedy",
+      "pages": 691,
+      "id": 2
+    },
+    {
+      "publisherId": 4,
+      "title": "Pan Tadeusz",
+      "releaseDate": "2012-06-09",
+      "genre": "horror",
+      "pages": 200,
+      "id": 3
+    },
+    {
+      "publisherId": 2,
+      "title": "Dwóch autorów",
+      "releaseDate": "2020-01-08",
+      "genre": "adventure",
+      "pages": 120,
+      "id": 4
     }
   ],
   "authors": [
@@ -14,6 +38,31 @@
       "name": "Henryk",
       "surname": "Sienkiewicz",
       "id": 1
+    },
+    {
+      "name": "Tomasz",
+      "surname": "Masłowski",
+      "id": 2
+    },
+    {
+      "name": "Robert",
+      "surname": "Wysocki",
+      "id": 3
+    },
+    {
+      "name": "Andrzej",
+      "surname": "Modzelski",
+      "id": 4
+    },
+    {
+      "name": "Anna",
+      "surname": "Rubik",
+      "id": 5
+    },
+    {
+      "name": "Rafał",
+      "surname": "Kiełbasa",
+      "id": 6
     }
   ],
   "bookAuthor": [
@@ -21,6 +70,46 @@
       "authorId": 1,
       "bookId": 1,
       "id": 1
+    },
+    {
+      "authorId": 1,
+      "bookId": 2,
+      "id": 2
+    },
+    {
+      "authorId": 6,
+      "bookId": 2,
+      "id": 3
+    },
+    {
+      "authorId": 5,
+      "bookId": 3,
+      "id": 4
+    },
+    {
+      "authorId": 3,
+      "bookId": 3,
+      "id": 5
+    },
+    {
+      "authorId": 2,
+      "bookId": 3,
+      "id": 6
+    },
+    {
+      "authorId": 1,
+      "bookId": 4,
+      "id": 7
+    },
+    {
+      "authorId": 3,
+      "bookId": 4,
+      "id": 8
+    },
+    {
+      "authorId": 5,
+      "bookId": 4,
+      "id": 9
     }
   ],
   "publisher": [
@@ -29,6 +118,30 @@
       "name": "First Publisher ",
       "phoneNumber": 123123123,
       "id": 1
+    },
+    {
+      "city": "Białystok",
+      "name": "NBP",
+      "phoneNumber": 987234987,
+      "id": 2
+    },
+    {
+      "city": "Kraków",
+      "name": "Nowa Era",
+      "phoneNumber": 123098234,
+      "id": 3
+    },
+    {
+      "city": "Ciechanów",
+      "name": "Nowa Książka",
+      "phoneNumber": 987234098,
+      "id": 4
+    },
+    {
+      "city": "Gdańsk",
+      "name": "EMag",
+      "phoneNumber": 987234098,
+      "id": 5
     }
   ]
 }
