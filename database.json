@@ -10,7 +10,7 @@
     },
     {
       "publisherId": 3,
-      "title": "Kiełbasa i przyjaciele",
+      "title": "Kiełbasa i",
       "releaseDate": "2019-11-07",
       "genre": "comedy",
       "pages": 691,
@@ -31,6 +31,30 @@
       "genre": "adventure",
       "pages": 120,
       "id": 4
+    },
+    {
+      "publisherId": 2,
+      "title": "Dwoje autorów",
+      "releaseDate": "2020-01-14",
+      "genre": "comedy",
+      "pages": 12,
+      "id": 5
+    },
+    {
+      "publisherId": 4,
+      "title": "Trzech autorów",
+      "releaseDate": "2020-01-14",
+      "genre": "drama",
+      "pages": 210,
+      "id": 6
+    },
+    {
+      "publisherId": 3,
+      "title": "Dwóch autorów jeszcze raz",
+      "releaseDate": "2020-01-14",
+      "genre": "epic",
+      "pages": 12,
+      "id": 7
     }
   ],
   "authors": [
@@ -110,6 +134,41 @@
       "authorId": 5,
       "bookId": 4,
       "id": 9
+    },
+    {
+      "authorId": 2,
+      "bookId": 5,
+      "id": 10
+    },
+    {
+      "authorId": 3,
+      "bookId": 5,
+      "id": 11
+    },
+    {
+      "authorId": 1,
+      "bookId": 6,
+      "id": 12
+    },
+    {
+      "authorId": 4,
+      "bookId": 6,
+      "id": 13
+    },
+    {
+      "authorId": 6,
+      "bookId": 6,
+      "id": 14
+    },
+    {
+      "authorId": 1,
+      "bookId": 7,
+      "id": 15
+    },
+    {
+      "authorId": 5,
+      "bookId": 7,
+      "id": 16
     }
   ],
   "publisher": [
